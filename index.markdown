@@ -7,6 +7,18 @@ title: "Malik Alabbas"
 permalink: /  
 ---
 
+<img
+  src="{{ '/assets/images/photo_me.jpg' | relative_url }}"
+  alt="Malik Alabbas"
+  style="
+    float: left;
+    margin: 0 1rem 1rem 0;
+    width: 200px;
+    border-radius: 50%;
+  "
+/>
+
+
 Hi I'm Malik. I'm a Biophysics and Mathematical Biology student at the University of Michigan. I enjoy learning about new tools (especially computational!) and their relation to solving problems in Chemistry and Medicine. Hoping to update this page with more info about myself in the future, but in the meantime feel free to check out some of my projects and stuff I've written!
 
 Commited to building towards a better future.
