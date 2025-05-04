@@ -14,7 +14,6 @@ permalink: /
     float: left;
     margin: 0 1rem 1rem 0;
     width: 200px;
-    border-radius: 50%;
   "
 />
 
