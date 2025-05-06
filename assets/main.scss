@@ -34,4 +34,21 @@
     margin: 0; /* Optional: Remove default margins */
   }
 
+  .footer {
+    width: 100%;
+    padding: 1rem 0;
+    text-align: center;
+    margin-top: 2rem; /* optional spacing above */
+    background-color: #f8f8f8; /* optional background */
+  }
+  
+  .footer p {
+    margin: 0.5rem 0;
+  }
+  
+  .footer a {
+    margin: 0 0.5rem;
+    text-decoration: none;
+    color: inherit;
+  }
   
