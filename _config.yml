@@ -39,6 +39,9 @@ collections:
   musings:
     output: true
     permalink: /musings/:name/
+  blog:
+    output: true
+    permalink: /blog/:name/
 
 
 # Exclude from processing.
